@@ -15,7 +15,7 @@ Rode a aplicação
 npm run dev
 ```
  
- Para executar os  teste  unitários dentro da pasta *gendo*
+ Para executar os  testes  unitários dentro da pasta *gendo*
 
 ```
 npm run test:unit
